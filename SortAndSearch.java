@@ -7,4 +7,6 @@ public class SortAndSearch {
 	//First, it sorts this array by using the bubblSrt method. Then, it searches for n.
 	//You can look up the binary search algorithm here: https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
 
+	// NOTE: implementation missing
+
 }
